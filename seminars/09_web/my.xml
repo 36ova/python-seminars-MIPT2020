@@ -1,0 +1,11 @@
+
+<cinema>
+  <name>BestCinema</name>
+  <films>
+    <categories>
+      <category>Action</category>
+      <category>Thriller</category>
+      <category>Soap opera</category>
+    </categories>
+  </films>
+</cinema>
